@@ -1,0 +1,14 @@
+N iron 6
+R straw plastic 3 black PETE
+R book paper 7
+N mel 64
+R bottle plastic 2 blue HDPE
+R outlet plastic 5 yellow PVC
+R stik metal 1 
+N shelf 30
+R notebook paper 1
+R stool metal 5
+R wrap plastic 9 green PETE
+N cup 5
+R milkWrap paper 4 
+P cup plastic 80 brown PETE
